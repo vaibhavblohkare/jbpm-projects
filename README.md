@@ -1,5 +1,8 @@
-# jbpm-projects
- Unzip generated jbpm-projects.zip file
- Go to business-application-service directory
- Execute launch.sh/bat clean install
- Open browser at http://localhost:8090
+# **jbpm-projects**
+ 1) Unzip generated jbpm-projects.zip file
+ 
+ 2) Go to business-application-service directory
+ 
+ 3) Execute launch.sh/bat clean install
+ 
+ 4) Open browser at http://localhost:8090
